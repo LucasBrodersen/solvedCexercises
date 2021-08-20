@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1629491855 source:/home/lucas/Documentos/Programas/EstudoPointeirosLivroBR/EstudoPonteiros/main.c
+	<stdio.h>
+	<stdlib.h>
+
